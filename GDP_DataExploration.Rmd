@@ -282,7 +282,7 @@ print(Map5countryQ6)
 Case study answers are grouped here. 
 
 ```{r, echo=TRUE}
-source("GDP_Answers.R")
+source("Analysis/Data/GDP_Answers.R")
 ```
 
 ### Answers:
